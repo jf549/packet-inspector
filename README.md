@@ -2,7 +2,7 @@
 A simple TCP/IP packet inspector written in C.
 
 
-Copyright 2014-2015 Jamie Fox
+Copyright 2015 Jamie Fox
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
